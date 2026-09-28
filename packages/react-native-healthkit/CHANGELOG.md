@@ -1,5 +1,11 @@
 # @kingstinct/react-native-healthkit
 
+## 16.0.1
+### Patch Changes
+
+- 97dc099: docs: point the README's Clinical Records section to `@react-native-healthkit/health-records` instead of the obsolete 3.x release
+  - @react-native-healthkit/core@16.0.1
+
 ## 16.0.0
 ### Major Changes
 
